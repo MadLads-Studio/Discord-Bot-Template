@@ -2,7 +2,7 @@
 > This template is not finished yet.
 > USE AT YOUR OWN RISK
 
-# Discord-Bot-Template
+<h1 align="center"> Discord-Bot-Template </h1>
 Bot Template in Python
 
 ## Resources
