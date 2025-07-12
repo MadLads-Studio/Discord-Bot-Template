@@ -1,3 +1,7 @@
+> [!WARNING]
+> This template is not finished yet.
+> USE AT YOUR OWN RISK
+
 # Discord-Bot-Template
 Bot Template in Python
 
