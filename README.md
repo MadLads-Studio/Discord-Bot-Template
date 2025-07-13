@@ -23,6 +23,10 @@ Bot Template in Python
 
 ![.env file](Images/env.png)
 
+- The Folder should look like this:
+
+![DISCORD-BOT-TEMPLATE](Images/DISCORD-BOT-TEMPLATE.png)
+
 3. Install dependencies:
 ```bash
 pip install -r ./requirements.txt
