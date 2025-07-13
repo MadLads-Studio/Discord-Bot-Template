@@ -27,7 +27,10 @@ Bot Template in Python
 ```bash
 pip install -r ./requirements.txt
 ```
-
+4. Run the bot:
+```bash
+python main.py
+```
 ## Resources
 - [Discord.Py GitHub](https://github.com/Rapptz/discord.py)
 - [Discord.Py Documentation](https://discordpy.readthedocs.io/en/stable/)
