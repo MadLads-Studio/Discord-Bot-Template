@@ -19,14 +19,14 @@ Bot Template in Python
 
 ![Create-New-Repo](Images/Create-New-Repo.png)
 
+2. Create a *.env file in the root directory with your bot token:
+
+![.env file](Images/env.png)
+
 3. Install dependencies:
 ```bash
 pip install -r ./requirements.txt
 ```
-
-3. Create a *.env file in the root directory with your bot token:
-
-![.env file](Images/env.png)
 
 ## Resources
 - [Discord.Py GitHub](https://github.com/Rapptz/discord.py)
