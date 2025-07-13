@@ -23,11 +23,11 @@ Bot Template in Python
 
 ![.env file](Images/env.png)
 
-- The Folder should look like this in your prefered IDE:
+- The directory should look like this in your prefered IDE:
 
 ![DISCORD-BOT-TEMPLATE-VSCODE](Images/DISCORD-BOT-TEMPLATE.png)
 
-3. Install dependencies:
+3. Open the terminal and install dependencies in the **Discord-Bot-Template** folder:
 ```bash
 pip install -r ./requirements.txt
 ```
