@@ -22,6 +22,7 @@ pip install -r ./requirements.txt
 ```
 
 3. Create a *.env file in the root directory with your bot token:
+[.env file](Images/env.png)
 > DISCORED_TOKEN=your-secret-token-here
 
 ## Resources
