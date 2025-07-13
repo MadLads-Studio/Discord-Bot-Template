@@ -15,11 +15,7 @@ Bot Template in Python
 
 ### 📦 Installation
 
-1. Clone this repository:
- ```bash
- git clone https://github.com/KiLOCentriX/Hall-of-Ls
- cd hall-of-ls
-```
+1. Use as template
 2. Install dependencies:
 ```bash
 pip install -r ./requirements.txt
