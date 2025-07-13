@@ -13,10 +13,12 @@ Bot Template in Python
 - [Discord Developer Account](https://discord.com/developers/)
 - A bot token stored in a `.env` file:
 
-### 📦 Installation
+### 📦 Creating New Repository
 
-1. Use as template
-2. Install dependencies:
+1. Click on **Use This Template**
+
+
+3. Install dependencies:
 ```bash
 pip install -r ./requirements.txt
 ```
