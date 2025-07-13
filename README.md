@@ -23,9 +23,9 @@ Bot Template in Python
 
 ![.env file](Images/env.png)
 
-- The Folder should look like this:
+- The Folder should look like this in your prefered IDE:
 
-![DISCORD-BOT-TEMPLATE](Images/DISCORD-BOT-TEMPLATE.png)
+![DISCORD-BOT-TEMPLATE-VSCODE](Images/DISCORD-BOT-TEMPLATE.png)
 
 3. Install dependencies:
 ```bash
