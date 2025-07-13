@@ -17,6 +17,7 @@ Bot Template in Python
 
 1. Click on **Use This Template**
 
+![Create-New-Repo](Images/Create-New-Repo.png)
 
 3. Install dependencies:
 ```bash
