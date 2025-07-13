@@ -1,5 +1,5 @@
 > [!WARNING]
-> This template is not finished yet.
+> This template is not finished yet./
 > USE AT YOUR OWN RISK
 
 <h1 align="center"> Discord-Bot-Template </h1>
