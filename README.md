@@ -19,7 +19,7 @@ Bot Template in Python
 
 ![Create-New-Repo](Images/Create-New-Repo.png)
 
-2. Create a *.env file in the root directory with your bot token:
+2. Create a .env file in the root directory with your bot token:
 
 ![.env file](Images/env.png)
 
