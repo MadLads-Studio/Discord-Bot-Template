@@ -5,6 +5,29 @@
 <h1 align="center"> Discord-Bot-Template </h1>
 Bot Template in Python
 
+## Getting Started
+
+### 🧰 Requirements
+
+- Python 3.10+
+- [Discord Developer Account](https://discord.com/developers/)
+- A bot token stored in a `.env` file:
+
+### 📦 Installation
+
+1. Clone this repository:
+ ```bash
+ git clone https://github.com/KiLOCentriX/Hall-of-Ls
+ cd hall-of-ls
+```
+2. Install dependencies:
+```bash
+pip install -r ./requirements.txt
+```
+
+3. Create a *.env file in the root directory with your bot token:
+> DISCORED_TOKEN=your-secret-token-here
+
 ## Resources
 - [Discord.Py GitHub](https://github.com/Rapptz/discord.py)
 - [Discord.Py Documentation](https://discordpy.readthedocs.io/en/stable/)
