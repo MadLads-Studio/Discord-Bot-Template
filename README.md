@@ -8,7 +8,7 @@
 > Helpful Videos:
 > - [How to Make Slash Commands in Discord.py | How to Sync Commands Discord.py](https://youtu.be/Yx5YYmKeFgc?si=a76PamYJomXwJogi)
 
-## Getting Started
+## 🌱 Getting Started
 
 ### 🧰 Requirements
 
