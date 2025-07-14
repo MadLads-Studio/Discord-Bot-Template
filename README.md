@@ -38,7 +38,7 @@ pip install -r ./requirements.txt
 ```bash
 python main.py
 ```
-## Resources
+## 📚 Resources
 - [Discord.Py GitHub](https://github.com/Rapptz/discord.py)
 - [Discord.Py Documentation](https://discordpy.readthedocs.io/en/stable/)
 - [Discord for Developers](https://discord.com/developers/)
