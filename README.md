@@ -15,7 +15,7 @@
 
 ### 📦 Creating New Repository
 
-1. Click on **Use This Template**
+1. Click **Use this template** to get started, or create a **new repository** and choose **MadLads-Studio/Discord-Bot-Template** from the Repository template dropdown.
 
 ![Create-New-Repo](Images/Create-New-Repo.png)
 
