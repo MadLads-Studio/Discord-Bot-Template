@@ -1,7 +1,7 @@
 <h1 align="center"> Discord-Bot-Template </h1>
 
 > [!NOTE]  
-> For Further help with setup checkout these videos:
+> Need more help setting up your Discord bot? Check out these beginner-friendly video tutorials:
 > - [How to Build a Discord Bot With Python - Full Tutorial 2025+](https://youtu.be/YD_N6Ffoojw?si=16YRNNqFKRGHyzl4)
 > - [Discord Python - How to Create a Discord Bot](https://youtu.be/UA_zrhI8R3w?si=Kmj5TyD5IubF0P2f)
 
