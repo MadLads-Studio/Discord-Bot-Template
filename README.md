@@ -1,5 +1,9 @@
 <h1 align="center"> Discord-Bot-Template </h1>
-Bot Template in Python
+
+> [!NOTE]  
+> For Further help with setup checkout these videos:\
+> - (How to Build a Discord Bot With Python - Full Tutorial 2025+)[https://youtu.be/YD_N6Ffoojw?si=16YRNNqFKRGHyzl4]
+> - (Discord Python - How to Create a Discord Bot)[https://youtu.be/UA_zrhI8R3w?si=Kmj5TyD5IubF0P2f]
 
 ## Getting Started
 
