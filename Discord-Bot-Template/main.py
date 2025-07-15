@@ -31,7 +31,7 @@ class MyClient(discord.Client):
         if message.content == 'ping':
             await message.channel.send('pong')
 
-# Creat an instance of the bot client, passing in the specified intents
+# Create an instance of the bot client, passing in the specified intents
 client = MyClient(intents=intents)
 
 # Run the bot
