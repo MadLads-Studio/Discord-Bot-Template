@@ -18,15 +18,15 @@
 
 ### 📦 Creating New Repository
 
-1. Click **Use this template** to get started, or create a **new repository** and choose **MadLads-Studio/Discord-Bot-Template** from the Repository template dropdown.
-
-![Create-New-Repo](Images/Create-New-Repo.png)
-
-2. Create a .env file in the root directory with your bot token:
+1. Clone the repository:
+```
+git clone https://github.com/gbeckstrom/Discord-Bot-Template.git
+```
+3. Create a .env file in the root directory with your bot token:
 
 ![.env file](Images/env.png)
 
-- The directory should look like this in your prefered IDE:
+- The directory should look like this in your preferred IDE:
 
 ![DISCORD-BOT-TEMPLATE-VSCODE](Images/DISCORD-BOT-TEMPLATE.png)
 
